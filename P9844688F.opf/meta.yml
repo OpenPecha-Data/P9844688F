@@ -1,0 +1,61 @@
+id: P9844688F
+initial_creation_type: input
+source_metadata:
+  title: Compendium of Sādhanas
+  language: it
+  description: 'Texts belonging to (and related to) the Compendium of Sādhanas (sgrub
+    thabs kun btus), a collection originally compiled by Jamyang Khyentse Wangpo (1820–1892)
+    and later supplemented by Jamyang Loter Wangpo (1847–1914). Note that the volume
+    numbers below correspond to the fourteen-volume Derge edition (reproduced by Dzongsar
+    Institute):'
+  volume:
+    b24a547ff5a5401b94d7ca21a05f2910:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      parent: Volume One
+    2da553af303e4d4f9a556a172c3924ff:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      parent: Volume One
+    860be7f18b3d4c61866bacccb869bafb:
+      title: 'Bestower of the Light of Intelligence: A Prayer to the Lineage of the
+        Profound Sādhana Based Upon the Praise to Venerable Mañjughoṣa'
+      parent: Volume Two
+    40caeb38f86c47a6a4627d26439edaf2:
+      title: 'The Method of Accomplishment of Ārya Avalokiteśvara: The Practice of
+        Great Compassion & Mahāmudrā in Union'
+      parent: Volume Three
+    fa6864c4bb124ff8a761182d3e7dd64d:
+      title: Concise Seven-Heap Maṇḍala Offering
+      parent: Volume Three
+    473449299bff4c00a0fc0ff4456e4891:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      parent: Volume Three
+    0c3a2a54761e436da9e1bc2040422a35:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      parent: Volume Twelve
+    a4debe0d917d42b7b0823a366131a133:
+      title: The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma)
+      parent: Volume Thirteen
+    0b954b44669c438cbbb46483d5168f13:
+      title: A Brief Prayer to the Precious Master Padmākara for Swiftly Fulfilling
+        Wishes
+      parent: Volume Thirteen
+    3b35d60b31884c95920d9fe5b7976858:
+      title: An Aspiration Prayer
+      parent: Volume Fourteen
+    3a94d1ed36da4548bef5ad41ec45be45:
+      title: Prayer for Dispelling Famine
+      parent: Volume Fourteen
+    0000a675fe6f4e7ea4bb93b825321fe3:
+      title: Prayer of Truthful Words to Pacify the Fear of War
+      parent: Volume Fourteen
+    ce930bc4e7ff406ca478c2eb80f96b09:
+      title: 'The Verses that Saved Sakya from Sickness: A Prayer for Pacifying the
+        Fear of Disease'
+      parent: Volume Fourteen
+created_at: '2022-03-01T03:15:47.011957'
+last_modified_at: '2022-03-01T03:15:47.011959'
